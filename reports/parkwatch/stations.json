@@ -1,0 +1,384 @@
+{
+  "stations": [
+    {
+      "name": "Upparpet",
+      "n": 34468,
+      "lat": 12.97699,
+      "lon": 77.57736
+    },
+    {
+      "name": "Shivajinagar",
+      "n": 28044,
+      "lat": 12.98164,
+      "lon": 77.60776
+    },
+    {
+      "name": "Malleshwaram",
+      "n": 22200,
+      "lat": 13.00719,
+      "lon": 77.55461
+    },
+    {
+      "name": "HAL Old Airport",
+      "n": 20819,
+      "lat": 12.93652,
+      "lon": 77.69261
+    },
+    {
+      "name": "City Market",
+      "n": 17646,
+      "lat": 12.96443,
+      "lon": 77.57681
+    },
+    {
+      "name": "Vijayanagara",
+      "n": 14652,
+      "lat": 12.97442,
+      "lon": 77.54473
+    },
+    {
+      "name": "Rajajinagar",
+      "n": 10998,
+      "lat": 12.99896,
+      "lon": 77.54979
+    },
+    {
+      "name": "Kodigehalli",
+      "n": 10916,
+      "lat": 13.07021,
+      "lon": 77.588
+    },
+    {
+      "name": "Magadi Road",
+      "n": 8558,
+      "lat": 12.97492,
+      "lon": 77.55156
+    },
+    {
+      "name": "Jeevanbheemanagar",
+      "n": 6736,
+      "lat": 12.97005,
+      "lon": 77.64583
+    },
+    {
+      "name": "K.R. Pura",
+      "n": 6546,
+      "lat": 13.00818,
+      "lon": 77.6953
+    },
+    {
+      "name": "Halasuru Gate",
+      "n": 6294,
+      "lat": 12.96474,
+      "lon": 77.58397
+    },
+    {
+      "name": "Mahadevapura",
+      "n": 6187,
+      "lat": 12.99584,
+      "lon": 77.69474
+    },
+    {
+      "name": "Chikkajala",
+      "n": 5834,
+      "lat": 13.1844,
+      "lon": 77.67976
+    },
+    {
+      "name": "HSR Layout",
+      "n": 5018,
+      "lat": 12.91166,
+      "lon": 77.63552
+    },
+    {
+      "name": "Bellandur",
+      "n": 4964,
+      "lat": 12.92284,
+      "lon": 77.67739
+    },
+    {
+      "name": "High ground",
+      "n": 4951,
+      "lat": 12.9914,
+      "lon": 77.58861
+    },
+    {
+      "name": "Byatarayanapura",
+      "n": 4555,
+      "lat": 12.95368,
+      "lon": 77.52904
+    },
+    {
+      "name": "Electronic City",
+      "n": 4333,
+      "lat": 12.84188,
+      "lon": 77.64767
+    },
+    {
+      "name": "Pulikeshinagar(F.Town)",
+      "n": 4136,
+      "lat": 12.99578,
+      "lon": 77.61338
+    },
+    {
+      "name": "Halasur",
+      "n": 4011,
+      "lat": 12.97345,
+      "lon": 77.61976
+    },
+    {
+      "name": "Jayanagara",
+      "n": 3813,
+      "lat": 12.92796,
+      "lon": 77.58361
+    },
+    {
+      "name": "Chamarajpet",
+      "n": 3795,
+      "lat": 12.96824,
+      "lon": 77.57079
+    },
+    {
+      "name": "Banaswadi",
+      "n": 3759,
+      "lat": 12.99659,
+      "lon": 77.66363
+    },
+    {
+      "name": "Basavanagudi",
+      "n": 3604,
+      "lat": 12.94333,
+      "lon": 77.57111
+    },
+    {
+      "name": "Ashok Nagar",
+      "n": 3524,
+      "lat": 12.96318,
+      "lon": 77.60618
+    },
+    {
+      "name": "Adugodi",
+      "n": 3332,
+      "lat": 12.93531,
+      "lon": 77.61715
+    },
+    {
+      "name": "Cubbon Park",
+      "n": 3255,
+      "lat": 12.97484,
+      "lon": 77.59693
+    },
+    {
+      "name": "Hebbala",
+      "n": 3209,
+      "lat": 13.03537,
+      "lon": 77.58908
+    },
+    {
+      "name": "Wilson Garden",
+      "n": 3108,
+      "lat": 12.94622,
+      "lon": 77.58649
+    },
+    {
+      "name": "Sheshadripuram",
+      "n": 3090,
+      "lat": 12.99048,
+      "lon": 77.57346
+    },
+    {
+      "name": "Mico Layout",
+      "n": 2588,
+      "lat": 12.91986,
+      "lon": 77.60634
+    },
+    {
+      "name": "Yeshwanthpura",
+      "n": 2587,
+      "lat": 13.02855,
+      "lon": 77.54291
+    },
+    {
+      "name": "Yelahanka",
+      "n": 2440,
+      "lat": 13.09741,
+      "lon": 77.59881
+    },
+    {
+      "name": "Hulimavu",
+      "n": 2395,
+      "lat": 12.8835,
+      "lon": 77.6373
+    },
+    {
+      "name": "Whitefield",
+      "n": 2303,
+      "lat": 12.95697,
+      "lon": 77.73305
+    },
+    {
+      "name": "R.T. Nagar",
+      "n": 1736,
+      "lat": 13.02227,
+      "lon": 77.59252
+    },
+    {
+      "name": "J.P. Nagar",
+      "n": 1637,
+      "lat": 12.90723,
+      "lon": 77.58586
+    },
+    {
+      "name": "Madiwala",
+      "n": 1563,
+      "lat": 12.92258,
+      "lon": 77.6207
+    },
+    {
+      "name": "V.V.Puram (C.Pet)",
+      "n": 1556,
+      "lat": 12.9601,
+      "lon": 77.57601
+    },
+    {
+      "name": "Sadashivanagar",
+      "n": 1445,
+      "lat": 13.02765,
+      "lon": 77.57446
+    },
+    {
+      "name": "Kamakshipalya",
+      "n": 1431,
+      "lat": 12.98796,
+      "lon": 77.50771
+    },
+    {
+      "name": "Banashankari",
+      "n": 1202,
+      "lat": 12.9267,
+      "lon": 77.55084
+    },
+    {
+      "name": "Jalahalli",
+      "n": 1160,
+      "lat": 13.05059,
+      "lon": 77.54377
+    },
+    {
+      "name": "Jnanabharathi",
+      "n": 1063,
+      "lat": 12.96102,
+      "lon": 77.5112
+    },
+    {
+      "name": "Peenya",
+      "n": 974,
+      "lat": 13.04003,
+      "lon": 77.51441
+    },
+    {
+      "name": "Hennuru",
+      "n": 892,
+      "lat": 13.06039,
+      "lon": 77.63379
+    },
+    {
+      "name": "K.G. Halli",
+      "n": 892,
+      "lat": 13.03432,
+      "lon": 77.62411
+    },
+    {
+      "name": "Thalagattapura",
+      "n": 870,
+      "lat": 12.88002,
+      "lon": 77.55727
+    },
+    {
+      "name": "K.S. Layout",
+      "n": 828,
+      "lat": 12.90714,
+      "lon": 77.55206
+    },
+    {
+      "name": "Chikkabanavara",
+      "n": 785,
+      "lat": 13.04921,
+      "lon": 77.50748
+    },
+    {
+      "name": "Devanahalli Airport",
+      "n": 773,
+      "lat": 13.19002,
+      "lon": 77.68063
+    },
+    {
+      "name": "Kengeri",
+      "n": 464,
+      "lat": 12.91704,
+      "lon": 77.50013
+    },
+    {
+      "name": "No Police Station",
+      "n": 338,
+      "lat": 13.05319,
+      "lon": 77.48529
+    }
+  ],
+  "order_by_volume": [
+    "Upparpet",
+    "Shivajinagar",
+    "Malleshwaram",
+    "HAL Old Airport",
+    "City Market",
+    "Vijayanagara",
+    "Rajajinagar",
+    "Kodigehalli",
+    "Magadi Road",
+    "Jeevanbheemanagar",
+    "K.R. Pura",
+    "Halasuru Gate",
+    "Mahadevapura",
+    "Chikkajala",
+    "HSR Layout",
+    "Bellandur",
+    "High ground",
+    "Byatarayanapura",
+    "Electronic City",
+    "Pulikeshinagar(F.Town)",
+    "Halasur",
+    "Jayanagara",
+    "Chamarajpet",
+    "Banaswadi",
+    "Basavanagudi",
+    "Ashok Nagar",
+    "Adugodi",
+    "Cubbon Park",
+    "Hebbala",
+    "Wilson Garden",
+    "Sheshadripuram",
+    "Mico Layout",
+    "Yeshwanthpura",
+    "Yelahanka",
+    "Hulimavu",
+    "Whitefield",
+    "R.T. Nagar",
+    "J.P. Nagar",
+    "Madiwala",
+    "V.V.Puram (C.Pet)",
+    "Sadashivanagar",
+    "Kamakshipalya",
+    "Banashankari",
+    "Jalahalli",
+    "Jnanabharathi",
+    "Peenya",
+    "Hennuru",
+    "K.G. Halli",
+    "Thalagattapura",
+    "K.S. Layout",
+    "Chikkabanavara",
+    "Devanahalli Airport",
+    "Kengeri",
+    "No Police Station"
+  ]
+}

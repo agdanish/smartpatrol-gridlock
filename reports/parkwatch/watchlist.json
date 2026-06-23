@@ -1,0 +1,789 @@
+{
+  "summary": {
+    "offenders_ge10": 711,
+    "offenders_ge5": 3489,
+    "chronic_across_ge2": 139,
+    "chronic_across_ge3": 19,
+    "systemic_across_ge2": 11343,
+    "systemic_across_ge3": 883,
+    "systemic_across_ge4": 88
+  },
+  "offenders": [
+    {
+      "vehicle": "FKN00GL17863",
+      "violations": 41,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "Chamarajpet"
+      ],
+      "approved_only_violations": 26,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL2906",
+      "violations": 35,
+      "n_stations": 2,
+      "stations": [
+        "Rajajinagar",
+        "Vijayanagara"
+      ],
+      "approved_only_violations": 10,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7963",
+      "violations": 25,
+      "n_stations": 2,
+      "stations": [
+        "Kodigehalli",
+        "Yelahanka"
+      ],
+      "approved_only_violations": 2,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL0395",
+      "violations": 24,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "City Market"
+      ],
+      "approved_only_violations": 11,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL9182",
+      "violations": 24,
+      "n_stations": 2,
+      "stations": [
+        "Vijayanagara",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 13,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL13920",
+      "violations": 23,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Halasuru Gate"
+      ],
+      "approved_only_violations": 9,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL17388",
+      "violations": 23,
+      "n_stations": 2,
+      "stations": [
+        "High ground",
+        "Shivajinagar"
+      ],
+      "approved_only_violations": 18,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL16746",
+      "violations": 22,
+      "n_stations": 4,
+      "stations": [
+        "Hulimavu",
+        "HSR Layout",
+        "Electronic City",
+        "Madiwala"
+      ],
+      "approved_only_violations": 9,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL104980",
+      "violations": 22,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 15,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL12732",
+      "violations": 22,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 8,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL14399",
+      "violations": 22,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL6353",
+      "violations": 22,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 14,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7910",
+      "violations": 22,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "City Market"
+      ],
+      "approved_only_violations": 9,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL18309",
+      "violations": 20,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Pulikeshinagar(F.Town)"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL3018",
+      "violations": 20,
+      "n_stations": 2,
+      "stations": [
+        "Vijayanagara",
+        "Byatarayanapura"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL3688",
+      "violations": 20,
+      "n_stations": 2,
+      "stations": [
+        "Kodigehalli",
+        "Adugodi"
+      ],
+      "approved_only_violations": 0,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7612",
+      "violations": 20,
+      "n_stations": 2,
+      "stations": [
+        "Hulimavu",
+        "Electronic City"
+      ],
+      "approved_only_violations": 2,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL6219",
+      "violations": 19,
+      "n_stations": 4,
+      "stations": [
+        "Rajajinagar",
+        "Malleshwaram",
+        "Magadi Road",
+        "Byatarayanapura"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL6423",
+      "violations": 19,
+      "n_stations": 2,
+      "stations": [
+        "Kodigehalli",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7916",
+      "violations": 19,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "City Market"
+      ],
+      "approved_only_violations": 9,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL19786",
+      "violations": 18,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 5,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL4107",
+      "violations": 18,
+      "n_stations": 2,
+      "stations": [
+        "Malleshwaram",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 9,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL0397",
+      "violations": 17,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "City Market"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL2317",
+      "violations": 17,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "Halasuru Gate"
+      ],
+      "approved_only_violations": 11,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL25145",
+      "violations": 17,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 5,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL5111",
+      "violations": 17,
+      "n_stations": 2,
+      "stations": [
+        "Rajajinagar",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 10,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7952",
+      "violations": 17,
+      "n_stations": 2,
+      "stations": [
+        "Hulimavu",
+        "Electronic City"
+      ],
+      "approved_only_violations": 1,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL0088",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "High ground",
+        "Upparpet"
+      ],
+      "approved_only_violations": 11,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL1473",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Vijayanagara",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 5,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL14734",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Rajajinagar",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 8,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL15781",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Jeevanbheemanagar"
+      ],
+      "approved_only_violations": 2,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL2996",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "High ground",
+        "Upparpet"
+      ],
+      "approved_only_violations": 13,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL40079",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Hebbala",
+        "Kodigehalli"
+      ],
+      "approved_only_violations": 1,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL62335",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Malleshwaram",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 6,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL6780",
+      "violations": 16,
+      "n_stations": 2,
+      "stations": [
+        "Malleshwaram",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 13,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL14755",
+      "violations": 15,
+      "n_stations": 3,
+      "stations": [
+        "Banashankari",
+        "Jayanagara",
+        "K.S. Layout"
+      ],
+      "approved_only_violations": 11,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL41594",
+      "violations": 15,
+      "n_stations": 3,
+      "stations": [
+        "Hulimavu",
+        "HSR Layout",
+        "Electronic City"
+      ],
+      "approved_only_violations": 6,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL18450",
+      "violations": 15,
+      "n_stations": 2,
+      "stations": [
+        "Vijayanagara",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 12,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL31294",
+      "violations": 15,
+      "n_stations": 2,
+      "stations": [
+        "Kodigehalli",
+        "Yelahanka"
+      ],
+      "approved_only_violations": 2,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL45098",
+      "violations": 15,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 8,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL5016",
+      "violations": 15,
+      "n_stations": 2,
+      "stations": [
+        "Sheshadripuram",
+        "Sadashivanagar"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL8470",
+      "violations": 15,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "Chikkajala"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL1530",
+      "violations": 14,
+      "n_stations": 4,
+      "stations": [
+        "Sheshadripuram",
+        "Malleshwaram",
+        "High ground",
+        "Kodigehalli"
+      ],
+      "approved_only_violations": 6,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL16589",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "Jeevanbheemanagar",
+        "Banaswadi"
+      ],
+      "approved_only_violations": 10,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL16636",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Cubbon Park"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL29737",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "City Market",
+        "V.V.Puram (C.Pet)"
+      ],
+      "approved_only_violations": 1,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL3284",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Upparpet"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL5790",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "Hulimavu",
+        "Electronic City"
+      ],
+      "approved_only_violations": 1,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL62141",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "City Market",
+        "V.V.Puram (C.Pet)"
+      ],
+      "approved_only_violations": 3,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL7052",
+      "violations": 14,
+      "n_stations": 2,
+      "stations": [
+        "Hulimavu",
+        "Electronic City"
+      ],
+      "approved_only_violations": 0,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL0147",
+      "violations": 13,
+      "n_stations": 3,
+      "stations": [
+        "City Market",
+        "Chamarajpet",
+        "Magadi Road"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL0330",
+      "violations": 13,
+      "n_stations": 3,
+      "stations": [
+        "Vijayanagara",
+        "Rajajinagar",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 4,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL103735",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Rajajinagar",
+        "Vijayanagara"
+      ],
+      "approved_only_violations": 8,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL12648",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Shivajinagar",
+        "Ashok Nagar"
+      ],
+      "approved_only_violations": 3,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL15299",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "Hebbala"
+      ],
+      "approved_only_violations": 2,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL21328",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Vijayanagara",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 5,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL28769",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Malleshwaram",
+        "Rajajinagar"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL2891",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Upparpet",
+        "City Market"
+      ],
+      "approved_only_violations": 7,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL3007",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "High ground",
+        "Malleshwaram"
+      ],
+      "approved_only_violations": 6,
+      "chronic": true
+    },
+    {
+      "vehicle": "FKN00GL43944",
+      "violations": 13,
+      "n_stations": 2,
+      "stations": [
+        "Hebbala",
+        "Kodigehalli"
+      ],
+      "approved_only_violations": 1,
+      "chronic": true
+    }
+  ],
+  "graph": {
+    "FKN00GL16746": {
+      "nodes": [
+        {
+          "id": "veh",
+          "label": "FKN00GL16746",
+          "x": 0.5,
+          "y": 0.5,
+          "type": "vehicle"
+        },
+        {
+          "id": "st0",
+          "label": "Hulimavu",
+          "x": 0.88,
+          "y": 0.5,
+          "type": "station",
+          "local_count": 17
+        },
+        {
+          "id": "st1",
+          "label": "HSR Layout",
+          "x": 0.5,
+          "y": 0.88,
+          "type": "station",
+          "local_count": 2
+        },
+        {
+          "id": "st2",
+          "label": "Electronic City",
+          "x": 0.12,
+          "y": 0.5,
+          "type": "station",
+          "local_count": 2
+        },
+        {
+          "id": "st3",
+          "label": "Madiwala",
+          "x": 0.5,
+          "y": 0.12,
+          "type": "station",
+          "local_count": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": "veh",
+          "to": "st0",
+          "count": 17
+        },
+        {
+          "from": "veh",
+          "to": "st1",
+          "count": 2
+        },
+        {
+          "from": "veh",
+          "to": "st2",
+          "count": 2
+        },
+        {
+          "from": "veh",
+          "to": "st3",
+          "count": 1
+        }
+      ]
+    },
+    "FKN00GL17863": {
+      "nodes": [
+        {
+          "id": "veh",
+          "label": "FKN00GL17863",
+          "x": 0.5,
+          "y": 0.5,
+          "type": "vehicle"
+        },
+        {
+          "id": "st0",
+          "label": "Upparpet",
+          "x": 0.88,
+          "y": 0.5,
+          "type": "station",
+          "local_count": 40
+        },
+        {
+          "id": "st1",
+          "label": "Chamarajpet",
+          "x": 0.12,
+          "y": 0.5,
+          "type": "station",
+          "local_count": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": "veh",
+          "to": "st0",
+          "count": 40
+        },
+        {
+          "from": "veh",
+          "to": "st1",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

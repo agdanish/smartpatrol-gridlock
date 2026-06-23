@@ -1,0 +1,25 @@
+{
+  "hardening": {
+    "auc_full": 0.797,
+    "auc_ci95": [
+      0.791,
+      0.804
+    ],
+    "auc_persistence": 0.711,
+    "auc_drop_ewma": 0.798,
+    "auc_no_recency": 0.774,
+    "beats_baseline_no_recency": 0.063,
+    "n_test_corner_weeks": 19510
+  },
+  "congestion": {
+    "mainroad_violations": 23923,
+    "mainroad_pct_of_all": 8.0,
+    "anchored_ge80pct_at_one_corner": 375,
+    "anchored_ge80_mainroad": 5,
+    "example_vehicle": "FKN00GL22303",
+    "example_n": 10,
+    "example_top_n": 10,
+    "example_pct": 100.0,
+    "example_corner": "a single main-road corner"
+  }
+}

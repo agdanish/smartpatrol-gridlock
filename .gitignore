@@ -1,0 +1,23 @@
+# dependencies & build
+node_modules/
+dist/
+.vercel/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# provided dataset (not redistributed)
+datasets-given-in-web-portal/
+
+# env & secrets
+.env
+.env.local
+
+# OS & misc
+.DS_Store
+*.zip
+
+# stray secondary app copy
+smartpatrol-app/
